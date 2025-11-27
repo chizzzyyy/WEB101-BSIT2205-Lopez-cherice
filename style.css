@@ -265,15 +265,7 @@ body {
 
 
 
-.otherdetails p {
-    margin: 0 0 10px 0;
-    text-align: center; /* optional, for alignment */
-}
 
-.otherdetails p:not(:last-child) {
-    border-bottom: 1px solid #000;
-    padding-bottom: 5px;
-}
 
 
 .age{
